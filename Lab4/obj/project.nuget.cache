@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qgRXuuTTmhEDr4RMihjRjFXzCQhwJ7PiLSJ8qJXUvlM57R197RgBHg4rEhyIr0/4Wmc8IEF+wmNfvTkHcZT3Yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maksb\\Downloads\\Telegram Desktop\\Lab4\\Lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maksb\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
